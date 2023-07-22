@@ -1,2 +1,1 @@
-# localstorageHook_getData_clearData
-Created with CodeSandbox
+#usage
